@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp2.1\TaxCalculator.deps.json
+C:\Users\Alex\source\repos\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp2.1\TaxCalculator.runtimeconfig.json
+C:\Users\Alex\source\repos\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp2.1\TaxCalculator.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp2.1\TaxCalculator.dll
+C:\Users\Alex\source\repos\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp2.1\TaxCalculator.pdb
+C:\Users\Alex\source\repos\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp2.1\TaxCalculator.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp2.1\TaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp2.1\TaxCalculator.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp2.1\TaxCalculator.AssemblyInfo.cs
+C:\Users\Alex\source\repos\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp2.1\TaxCalculator.dll
+C:\Users\Alex\source\repos\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp2.1\TaxCalculator.pdb
